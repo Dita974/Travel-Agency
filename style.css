@@ -80,7 +80,7 @@ header nav ul li a {
 
 #main-image {
   height: 580px;
-  background: url("img/main.jpg") center;
+  background: url("img/main.jpg") center/cover;
 }
 #main-image h2 {
   font-weight: normal;
